@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "Haha, thats gay😝";
   gif.src =
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHXp3sLqwJqSHVe9Q_Jkv3AemwtftV_SfuBA&usqp=CAU";
+    "https://media1.giphy.com/media/QYpwZnMUDtylYeDjvy/giphy.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
